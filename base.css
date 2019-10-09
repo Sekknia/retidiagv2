@@ -1,0 +1,76 @@
+
+
+.slider {
+  width: 950px;
+  height: 461px;
+  display: flex;
+  overflow-x: auto;
+
+}
+
+#u2950
+{
+    z-index: 9;
+    width: 1106px;
+    opacity: 0.9;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+    filter: alpha(opacity=90);
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 854px;
+    left: 24px;
+
+}
+
+.slide {
+  width: 950px;
+  height: 461px;
+  align-content: center;
+  flex-shrink: 0;
+
+}
+
+
+.Titul
+ {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+ }
+
+
+h5 
+ {
+    margin-top: 10px;
+    color: white;
+ }
+
+p
+{
+    color: white;
+}
+
+a
+{
+    
+}
+
+
+h6
+{
+    color: white;
+}
+        
+body 
+ {
+    background-image: url(img/fondo.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+ }
+
+ #princip 
+ {
+  
+ }
